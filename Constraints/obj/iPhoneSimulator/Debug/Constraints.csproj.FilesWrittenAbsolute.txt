@@ -1,0 +1,15 @@
+/Users/goggenb/dev/Constraints/Constraints/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/goggenb/dev/Constraints/Constraints/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/goggenb/dev/Constraints/Constraints/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/goggenb/dev/Constraints/Constraints/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/goggenb/dev/Constraints/Constraints/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/goggenb/dev/Constraints/Constraints/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/goggenb/dev/Constraints/Constraints/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/goggenb/dev/Constraints/Constraints/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/goggenb/dev/Constraints/Constraints/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/goggenb/dev/Constraints/Constraints/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/goggenb/dev/Constraints/Constraints/obj/iPhoneSimulator/Debug/optimized/
+/Users/goggenb/dev/Constraints/Constraints/bin/iPhoneSimulator/Debug/Constraints.exe.mdb
+/Users/goggenb/dev/Constraints/Constraints/bin/iPhoneSimulator/Debug/Constraints.exe
+/Users/goggenb/dev/Constraints/Constraints/obj/iPhoneSimulator/Debug/Constraints.exe
+/Users/goggenb/dev/Constraints/Constraints/obj/iPhoneSimulator/Debug/Constraints.exe.mdb
